@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayse's Blog</title>
+</head>
+<body bgcolor="wheat">
+    <header  align="center">
+        <img  src="img/headerblog.jpg" width="700px" height="300px" style="border:2px outset burlywood" /> 
+       <a href="https://www.linkedin.com/in/ayse-onur-5334191b4/"><img  align="right" src="img/Logo_LinkedIn-256.png" width="30px" height="30px"/></a>
+       <br/>
+       <i style=" font-family:'Courier New', Courier, monospace ">If you're go after something you want so much, I call it success. </i>
+    </header> 
+        
+        
+           <div>
+            <h2 width="900px" style="background:burlywood;border:1px solid #cccccc;padding: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Day 1 - 10.08.2020</h2>
+            <img style="float:left; padding-right: 20px; width: 300px; height: 200px; " src="img/kurulum.png">
+            <br/>
+          <ul>
+              <li>
+            <p>Today I set my computer up. I installed Visual Studio Code and Google Chrome.</p>
+        </li>
+        <li>
+            <p>I did research on Visual Studio Code. I reviewed sample projects</p>
+        </li>
+        <li>
+            <p>Visual Studio Code is a fast, lightweight and free tool that can run on Microsoft, Linux and Mac operating systems.</p>
+        </li>
+        </ul>
+        </div> 
+    
+        <div style="padding-top: 50px;">
+            <h2 width="900px" style="background:burlywood;border:1px solid #cccccc;padding: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Day 2 - 11.08.2020</h2>
+            <img style="float:left; padding-right: 20px; width: 300px; height: 200px; " src="img/linkednprofil.JPG">
+            <br/>
+          <ul>
+              <li>
+            <p>I created a Linkedin Profile.</p>
+        </li>
+        <li>
+            <p>I did research on Visual Studio Code. I reviewed sample prI started HTML learning videos.ects</p>
+        </li>
+        <li>
+            <p>I started HTML learning videos.</p>
+        </li>
+        </ul>  
+</div> 
+<div style="padding-top: 50px;">
+            <h2 width="900px" style="background:burlywood;border:1px solid #cccccc;padding: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Day 3 - 12.08.2020</h2>
+            <p>Today I set my computer up. I installed Visual Studio Code and Google Chrome.</p>
+            <img src="images/github.png" width="100">
+        </div>       
+            <h2 width="900px" style="background:burlywood;border:1px solid #cccccc;padding: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Day 4 - 13.08.2020</h2>
+            <p>Today I set my computer up. I installed Visual Studio Code and Google Chrome.</p>
+            <img src="images/github.png" width="100">
+
+            <h2 width="900px" style="background:burlywood;border:1px solid #cccccc;padding: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Day 5 - 14.08.2020</h2>
+            <p>Today I set my computer up. I installed Visual Studio Code and Google Chrome.</p>
+            <img src="images/github.png" width="100">
+
+            <h2 width="900px" style="background:burlywood;border:1px solid #cccccc;padding: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Day 6 - 15.08.2020</h2>
+            <p>Today I set my computer up. I installed Visual Studio Code and Google Chrome.</p>
+            <img src="images/github.png" width="100">
+
+            <h2 width="900px" style="background:burlywood;border:1px solid #cccccc;padding: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Day 7 - 16.08.2020</h2>
+            <p>Today I set my computer up. I installed Visual Studio Code and Google Chrome.</p>
+            <img src="images/github.png" width="100">
+
+</body>
+</html>
